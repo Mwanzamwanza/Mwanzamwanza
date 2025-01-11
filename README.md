@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwanzamwanza
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python i'm bigginer
+- 👀 I’m interested in ...python and database
+- 🌱 I’m currently learning ...python and database i'm bigginer
 - 💞️ I’m looking to collaborate on ...python club 
 - 📫 How to reach me ... my email 
 - 😄 Pronouns: ...
